@@ -1,5 +1,3 @@
-# Oblivion
-Oblivion Script
 So,this is Oblivion, an universal Aimbot that works on every game!
 The aimbot works on most shooters game, such as Arsenal, Rivals (for rivals there is a dedicated section with a dedicated Aimbot script because Rivals uses a different aim thing), Flick, Pistol Arena... and many more!
 If the aimbot doesnt work, please make a game request in "Issues" or use the built in Triggerbot!
